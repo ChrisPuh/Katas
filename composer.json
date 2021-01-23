@@ -1,0 +1,13 @@
+{
+    "name": "chris/katas",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris",
+            "email": "59114509+ChrisPuh@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
